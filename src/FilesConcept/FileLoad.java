@@ -26,6 +26,7 @@ System.out.println("file no created we need to create using create new file");
 
 					System.out.println("file no created we need to create using create new file");
 					System.out.println("file no created we need to create using create new file");
+					System.out.println("sai");
 
 
 		f1.createNewFile();
@@ -34,8 +35,6 @@ System.out.println("file no created we need to create using create new file");
 			
 		}
 		
-
-
 	}
 
 }
